@@ -24,4 +24,4 @@
 | 22 | Nov-20 | 22:11 | Ferrari      | 296 GTS           | New Bond St           | Red        | Coupe          | 255K     |
 | 23 | Nov-20 | 22:18 | Lotus        | Evija             | New Bond St           | Black      | Coupe          | 2M       |
 | 24 | Nov-20 | 22:18 | Lotus        | Emira             | New Bond St           | Green      | Coupe          | 110K     |
-| 23 | Nov-20 | 23:01 | Mercedes-Benz| G 500 Cabriolet   | Westminster           | Blue       | Convertible SUV| 2M       |
+| 25 | Nov-20 | 23:01 | Mercedes-Benz| G 500 Cabriolet   | Westminster           | Blue       | Convertible SUV| 2M       |
